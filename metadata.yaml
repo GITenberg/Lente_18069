@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Cyriel_Buysse
     - http://nl.wikipedia.org/wiki/Cyriel_Buysse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18069#Lente
 gutenberg_issued: '2006-03-29'
 gutenberg_type: Text
 identifiers:
